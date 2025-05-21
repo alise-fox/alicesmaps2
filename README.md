@@ -12,7 +12,7 @@ Expo-приложение на React Native, которое показывает
 
 ```bash
 git clone https://github.com/alise-fox/alicesmaps2.git
-cd your-app
+cd alicesmaps2
 ```
 
 ### Node ≥ 18
